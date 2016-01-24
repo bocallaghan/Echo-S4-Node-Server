@@ -1,0 +1,13 @@
+{
+    "intents": [
+        {
+            "intent": "GetBudgetStatus",
+          	"slots": [
+              {
+                "name": "Date",
+                "type": "AMAZON.DATE"
+              }
+            ]
+        }
+    ]
+}

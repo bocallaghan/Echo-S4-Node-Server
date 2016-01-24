@@ -1,0 +1,1 @@
+// File for testing out chunks of code such as connectivity to HANA server etc.
